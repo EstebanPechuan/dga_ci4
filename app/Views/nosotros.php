@@ -1,7 +1,7 @@
 
 <main>
     <?php
-        $clase['menu_activo'] = 'home';
+        $clase['menu_activo'] = 'nosotros';
         echo view('includes/hero', $clase);
 
         echo view('includes/pilares');
@@ -10,7 +10,8 @@
     <section class="que-es-ga">
         <div class="que-es-info">
             <h3>Qué es Gobierno Abierto</h3>
-            <p>El Gobierno de la Provincia trabaja bajo el paradigma de Gobierno Abierto sustentado en tres pilares: <strong>la transparencia, la colaboración y la participación</strong>, priorizando a la innovación como transversal a todos los procesos.</p>
+            <p>El Gobierno de la Provincia trabaja bajo el paradigma de Gobierno Abierto sustentado en los siguientes pilares: <strong>La Innovación Tecnología, la transparencia, la colaboración y la participación</strong>, priorizando a la innovación como transversal a todos los procesos.
+            Desde Gobierno Abierto consideramos que trabajamos con una filosofía político administrativa que pretende mejorar el desempeño y la calidad de los organismos públicos.</p>
         </div>
         <div class="que-es-logo">
             <img src=" <?php echo base_url('public/img/gob-san-juan.png') ?> " alt="Logo Gobierno San Juan">
@@ -20,7 +21,10 @@
     <section class="publi-cidi-compu">
         <div class="publi-info-compu">
             <div class="publi-texto-compu">
-                <h3>Ciudadano Digital web donde podes acceder a tus servivios de una forma Rápida, Fácil y Segura</h3>
+                <h3>Resposabilidades
+                    <br>
+                    Nuestras responsabilidades están centradas  en impactar de forma:
+                </h3>
                 <p>Podrás realizar distintos trámites y servicios digitales</p>
             </div>
             <div class="publi-button-compu">
@@ -179,3 +183,10 @@
         <img src=" <?php echo base_url('public/img/purple-bg.png') ?> " alt="Flyer Violencia">
     </div>
 </main>
+
+
+
+
+
+
+
