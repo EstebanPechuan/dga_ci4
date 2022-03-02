@@ -18,165 +18,116 @@
         </div>
     </section>
 
-    <section class="publi-cidi-compu">
-        <div class="publi-info-compu">
-            <div class="publi-texto-compu">
-                <h3>Resposabilidades
-                    <br>
-                    Nuestras responsabilidades están centradas  en impactar de forma:
-                </h3>
-                <p>Podrás realizar distintos trámites y servicios digitales</p>
+    <section class="nosotros-responsabilidad">
+        <h3>Resposabilidades
+            <br>
+            Nuestras responsabilidades están centradas  en impactar de forma:
+        </h3>
+        <div class="responsabilidad">
+            <div class="resposabilidad-img">
+                <img src=" <?php echo base_url('public/img/engranages.png') ?> " alt="Engranages">
             </div>
-            <div class="publi-button-compu">
-                <a href="#c">Ir a Ciudadano Digital</a>
-            </div>
-        </div>
-        <div class="publi-img-compu">
-            <img src=" <?php echo base_url('public/img/mockup-compu.png') ?> " alt="MockUp Computadora">
-        </div>
-    </section>
+            <div class="resposabilidad-texto">
+                <div class="">
+                    <p>
+                        <strong>Directa</strong>
+                        <ul>
+                            <li>Gestionar la comunicación bilateral entre el Gobierno y el ciudadano.</li>
+                            <li>Promover los canales que faciliten los componentes deliberativos y participativos de la democracia.</li>
+                            <li>Garantizar el libre acceso a la información pública</li>
+                        </ul>
 
-    <section class="noticias-home">
-        <h2>Noticias</h2>
-        <div class="cards-noticias">
-            <div class="card-noticias">
-                <div class="card-noti">
-                    <img src=" <?php echo base_url('public/img/card-noti.png') ?> " alt="Imágen de Noticia">
+                        Estas responsabilidades se ven reflejadas en operaciones que la D.G.A. realiza de manera periódica y continúa brindándole al ciudadano un producto digital, de calidad e innovación tecnológica para mayor transparencia a la hora de solicitar datos, expedientes y demás gestiones gubernamentales de una manera fácil, rápida y simple.
+
+                    </p>
                 </div>
-                <h4>El CoPESJ avanza en la Elaboración de los planes estratégicos departamentales</h4>
-                <p>Con más de 3.800 aportes documentados, se trabaja en Albardón. Caucete, 9 de Julio y San Martín</p>
-                <a href="#c">Ver más</a>
             </div>
+        </div>
 
-            <div class="card-noticias">
-                <div class="card-noti">
-                    <img src=" <?php echo base_url('public/img/card-noti.png') ?> " alt="Imágen de Noticia">
+        <div class="responsabilidad-2">
+            <div class="resposabilidad-img-2">
+                <img src=" <?php echo base_url('public/img/persona-engranage.png') ?> " alt="Engranages">
+            </div>
+            <div class="resposabilidad-texto-2">
+                <div class="">
+                    <p>
+                        <strong>Indirecta, relacionadas con una visión a futuro</strong>
+
+                        <br>
+                        <strong>- Automatización de procesos</strong>
+                        <br>
+                        (Innovación tecnológica / Transparencia)
+                        Es la operación de un proceso utilizando la tecnología y la integración de sistemas y datos. Es un paso importante capaz de generar competitividad, eficiencia, transparencia y coherencia y valor al ciudadano.
+                        <br><br>
+                        <strong>- Gestión Metodológica</strong>
+                        <br>
+                        (Innovación tecnológica / Transparencia)
+                        Es la disciplina encargada de elaborar, definir y sistematizar el procedimiento que se debe seguir durante el desarrollo de un proyecto para la producción de una plataforma o producto digital.
+                        <br><br>
+                        <strong>- Interoperabilidad</strong>
+                        <br>
+                        (Innovación tecnológica / Transparencia) (intercambio de información)
+                        Generando una comunicación entre plataformas digitales donde se intercambia información, datos, documentos y expedientes de manera uniforme y eficiente. Facilitando la gestión de la información del ciudadano.
+                        <br><br>
+                        <strong>- Multicanalidad</strong>
+                        <br>
+                        (Participación ciudadana)
+                        Creación de bots y CAIGE desde donde el usuario se pone en contacto con el Gobierno y de esta manera generar una comunicación entre ambos donde nace y se crea un producto que conoce y cumple las necesidades del ciudadano.
+                        Con esta visión se crean productos digitales que trascienden gestiones gubernamentales van hacia un futuro, siempre orientados al beneficio del ciudadano y generando transparencia desde el Gobierno.
+                        Estas responsabilidades se ven reflejadas en las áreas de Ejecución, Operación y Mantenimiento donde se brinda soporte a las diferentes plataformas gubernamentales como Portales Web y Aplicaciones Móviles, creadas para facilitar el acceso al ciudadano y a los trabajadores de Gobierno a diferentes trámites, documentos y expedientes.
+                    </p>
                 </div>
-                <h4>El CoPESJ avanza en la Elaboración de los planes estratégicos departamentales</h4>
-                <p>Con más de 3.800 aportes documentados, se trabaja en Albardón. Caucete, 9 de Julio y San Martín</p>
-                <a href="#c">Ver más</a>
-            </div>
-
-            <div class="card-noticias">
-                <div class="card-noti">
-                    <img src=" <?php echo base_url('public/img/card-noti.png') ?> " alt="Imágen de Noticia">
-                </div>
-                <h4>El CoPESJ avanza en la Elaboración de los planes estratégicos departamentales</h4>
-                <p>Con más de 3.800 aportes documentados, se trabaja en Albardón. Caucete, 9 de Julio y San Martín</p>
-                <a href="#c">Ver más</a>
-            </div>
-
-            <div class="card-noticias">
-                <div class="card-noti">
-                    <img src=" <?php echo base_url('public/img/card-noti.png') ?> " alt="Imágen de Noticia">
-                </div>
-                <h4>El CoPESJ avanza en la Elaboración de los planes estratégicos departamentales</h4>
-                <p>Con más de 3.800 aportes documentados, se trabaja en Albardón. Caucete, 9 de Julio y San Martín</p>
-                <a href="#c">Ver más</a>
-            </div>
-        </div>
-    </section>
-
-    <section class="cards-home-tramites">
-        <div class="card-home-tramite">
-            <div class="card-home-img">
-                <img src=" <?php echo base_url('public/img/iconos/folder.png') ?> " alt="Icono Carpeta">
-            </div>
-            <div class="card-home-titulo">
-                <h3>Consultas de Expedientes</h3>
-            </div>
-        </div>
-
-        <div class="card-home-tramite">
-            <div class="card-home-img">
-                <img src=" <?php echo base_url('public/img/iconos/hands.png') ?> " alt="Icono Manos">
-            </div>
-            <div class="card-home-titulo">
-                <h3>Trámites</h3>
-            </div>
-        </div>
-
-        <div class="card-home-tramite">
-            <div class="card-home-img">
-                <img src=" <?php echo base_url('public/img/iconos/document-mouse.png') ?> " alt="Icono Documento">
-            </div>
-            <div class="card-home-titulo">
-                <h3>Contrataciones</h3>
-            </div>
-        </div>
-
-        <div class="card-home-tramite">
-            <div class="card-home-img">
-                <img src=" <?php echo base_url('public/img/iconos/chats.png') ?> " alt="Icono Conversación">
-            </div>
-            <div class="card-home-titulo">
-                <h3>Consultas y solicitudes</h3>
             </div>
         </div>
     </section>
 
-    <section class="links-utiles">
-        <div class="link">
-            <h4>Ministerio de Hacienda y Finanzas</h4>
-            <a href="#c">
-                Página Web <i class='bx bx-world'></i>
-            </a>
-        </div>
-
-        <div class="link">
-            <h4>Dirección Provincial de Informática</h4>
-            <a href="#c">
-                Página Web <i class='bx bx-world'></i>
-            </a>
-        </div>
-
-        <div class="link">
-            <h4>Recaudación Impositiva</h4>
-            <a href="#c">
-                Página Web <i class='bx bx-world'></i>
-            </a>
-        </div>
-
-        <div class="link">
-            <h4>Régimen Federal de Responsabilidad Fiscal</h4>
-            <a href="#c">
-                Página Web <i class='bx bx-world'></i>
-            </a>
-        </div>
-        
-        <div class="link">
-            <h4>Digesto Administrativo</h4>
-            <a href="#c">
-                Página Web <i class='bx bx-world'></i>
-            </a>
-        </div>
-
-        <div class="link">
-            <h4>Consulta de  Comprobantes de Pago y Rentenciones</h4>
-            <a href="#c">
-                Página Web <i class='bx bx-world'></i>
-            </a>
+    <section class="organismos">
+        <h2>Organismos y Secretarías</h2>
+        <div class="cards-organismos">
+            <div class="card-organismos">
+                <div class="card-org">
+                    <img src=" <?php echo base_url('public/img/mujer-org.png') ?> " alt="Organismos">
+                </div>
+                <h4>Lorem Ipsum</p>
+                <!-- <a href="#c">Ver más</a> -->
+            </div>
         </div>
     </section>
 
-    <section class="publi-cidi-celu">
-        <div class="publi-img-celu">
-            <img src=" <?php echo base_url('public/img/mockup-celu.png') ?> " alt="MockUp Celulares">
-        </div>
-        <div class="publi-info-celu">
-            <div class="publi-texto-celu">
-                <h3>Descarga nuestra app y accede a tus servivios de una forma Rápida, Fácil y Segura</h3>
-                <p>Podrás realizar distintos trámites y servicios digitales</p>
+    <section class="organismos">
+        <div class="cards-organismos">
+            <div class="card-organismos-2">
+                <div class="card-org">
+                    <img src=" <?php echo base_url('public/img/hombre-org.png') ?> " alt="Organismos">
+                </div>
+                <h4>Lorem Ipsum</p>
+                <!-- <a href="#c">Ver más</a> -->
             </div>
-            <div class="publi-buttons-celu">
-                <a href="#c">
-                    <img src=" <?php echo base_url('public/img/google-play.png') ?> " alt="Botón Google Play">
-                </a>
-                <a href="#c">
-                    <img src=" <?php echo base_url('public/img/app-store.png') ?> " alt="Botón App Store">
-                </a>
+
+            <div class="card-organismos-2">
+                <div class="card-org">
+                    <img src=" <?php echo base_url('public/img/hombre-org.png') ?> " alt="Organismos">
+                </div>
+                <h4>Lorem Ipsum</p>
+                <!-- <a href="#c">Ver más</a> -->
             </div>
-        </div>
+
+            <div class="card-organismos-2">
+                <div class="card-org">
+                    <img src=" <?php echo base_url('public/img/hombre-org.png') ?> " alt="Organismos">
+                </div>
+                <h4>Lorem Ipsum</p>
+                <!-- <a href="#c">Ver más</a> -->
+            </div>
+
+            <div class="card-organismos-2">
+                <div class="card-org">
+                    <img src=" <?php echo base_url('public/img/hombre-org.png') ?> " alt="Organismos">
+                </div>
+                <h4>Lorem Ipsum</p>
+                <!-- <a href="#c">Ver más</a> -->
+            </div>
+        </div>        
     </section>
 
     <div class="flyer-violencia">

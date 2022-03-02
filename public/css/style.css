@@ -2,6 +2,7 @@
 @import url('componentes-css/variables.css');
 @import url('componentes-css/header-footer.css');
 @import url('componentes-css/home.css');
+@import url('componentes-css/nosotros.css');
 
 * {
     margin: 0;
