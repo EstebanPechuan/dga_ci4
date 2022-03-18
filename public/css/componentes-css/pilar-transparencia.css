@@ -1,0 +1,241 @@
+/* Trámites Home */
+
+.cards-pilares-transparencias {
+    width: 100%;
+}
+
+.cards-pilares-transparencias > h3 {
+    font-size: 30px;
+    font-family: var(--ff-bold);
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.cards-pilares-transparencia {
+    width: 100%;
+    padding: 20px 50px;
+    text-align: center;
+
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 50px;
+}
+
+.card-pilar-transparencia {
+    padding: 20px 50px;
+    text-align: center;
+    box-shadow: 0 4px 4px #0004;
+    border-radius: 8px;
+    cursor: pointer;
+    
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.card-pilar-titulo {
+    color: #4175B8;
+}
+
+.card-pilar-img {
+    height: 60px;
+}
+
+.card-pilar-img img {
+    height: 100%;
+}
+
+
+.resposabilidad-texto-3 > div p {
+    font-size: 20px !important;
+}
+
+.resposabilidad-texto-3 > div li,
+.menu-ul-circle li {
+    /* list-style-type: circle; */
+    line-height: 1.4;
+    font-size: 20px !important;
+    margin-left: 20px !important;
+}
+
+
+/* Link Útiles */
+
+.links-utiles {
+    width: 100%;
+    padding: 20px 50px;
+
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+    gap: 20px 40px;
+}
+
+.links-utiles .link {
+    box-shadow: 0 4px 4px #0004;
+    padding: 10px 15px;
+    border-radius: 7px;
+    text-align: right;
+}
+
+.links-utiles .link h4 {
+    color: #4175B8;
+    font-family: var(--ff-medium);
+    text-align: left;
+}
+
+.links-utiles .link a {
+    color: var(--color-1) !important;
+}
+
+
+.estadisticas {
+    width: 100%;
+    padding: 20px 50px;
+}
+
+.estadisticas fieldset {
+    width: 100%;
+    padding: 0 20px;
+    border: 4px solid #000;
+    border-radius: 8px;
+    position: relative;
+}
+
+.estadisticas legend {
+    font-size: 40px;
+    margin: 0 30px;
+    padding: 0 10px;
+}
+
+.interior-fieldset {
+    width: 100%;
+    padding: 50px 100px;
+
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 30px;
+    place-content: center;
+}
+
+.card-estadistica {
+    display: flex;
+    /* grid-template-columns: repeat(2, 1fr); */
+    align-items: center;
+    gap: 10px;
+}
+
+.card-estadistica .asterisco,
+.card-estadistica .card-est h2 {
+    font-size: 40px;
+    font-family: var(--ff-bold);
+    line-height: 0.8;
+}
+
+.card-estadistica .asterisco {
+    margin-top: 20px;
+}
+
+.card-est p {
+    font-size: 16px;
+}
+
+.grafica-est {
+    height: 300px;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    z-index: -1;
+}
+
+.estadisticas .grafica-est img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.estadisticas > p {
+    margin-top: 20px;
+}
+
+
+.publicidad-cidi {
+    width: 100%;
+    padding: 20px 50px;
+}
+
+.publicidad-cidi img {
+    width: 100%;
+}
+
+
+/* Colaboración */
+
+.fields-colaboracion {
+    width: 100%;
+    padding: 20px 50px;
+
+    display: flex;
+    gap: 20px;
+}
+
+.fields-colaboracion fieldset {
+    width: 100%;
+    padding: 0 20px;
+    border: 4px solid #000;
+    border-radius: 8px;
+    position: relative;
+}
+
+.fields-colaboracion legend {
+    font-size: 20px;
+    margin: 0 30px;
+    padding: 0 10px;
+    font-family: var(--ff-bold);
+}
+
+.fields-colaboracion .interior-fieldset {
+    width: 100%;
+    padding: 20px;
+}
+
+.fields-colaboracion .interior-fieldset ul li {
+    list-style-type: disc;
+}
+
+.fields-colaboracion .fields-colaboracion-menu {
+    width: 100% !important;
+}
+
+.fields-colaboracion .interior-fieldset .fields-colaboracion-menu > li {
+    list-style-position: inside;
+}
+
+.fields-colaboracion .interior-fieldset .fields-colaboracion-menu > li::marker {
+    content: '* ';
+    font-size: 40px;
+    font-family: var(--ff-bold);
+    line-height: 0.2;
+}
+
+.fields-colaboracion .fields-colaboracion-submenu {
+    margin-left: 20px;
+}
+
+
+
+
+
+.fields-colaboracion .grafica-est-1 {
+    height: 300px;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    z-index: -1;
+}
+
+.fields-colaboracion .grafica-est-1 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}

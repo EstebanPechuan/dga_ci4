@@ -294,3 +294,22 @@ CRITICAL - 2022-03-18 08:37:49 --> Invalid file: pilares.php
 #9 C:\wamp64\www\dga_ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
 #10 C:\wamp64\www\dga_ci4\index.php(37): CodeIgniter\CodeIgniter->run()
 #11 {main}
+CRITICAL - 2022-03-18 09:52:16 --> Undefined variable: pilar_activo
+#0 C:\wamp64\www\dga_ci4\app\Views\includes\pilares.php(4): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\d...', 4, Array)
+#1 C:\wamp64\www\dga_ci4\system\View\View.php(210): include('C:\\wamp64\\www\\d...')
+#2 C:\wamp64\www\dga_ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\dga_ci4\system\Common.php(1089): CodeIgniter\View\View->render('includes/pilare...', Array, true)
+#4 C:\wamp64\www\dga_ci4\app\Views\contacto.php(7): view('includes/pilare...')
+#5 C:\wamp64\www\dga_ci4\system\View\View.php(210): include('C:\\wamp64\\www\\d...')
+#6 C:\wamp64\www\dga_ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 C:\wamp64\www\dga_ci4\system\Common.php(1089): CodeIgniter\View\View->render('contacto', Array, true)
+#8 C:\wamp64\www\dga_ci4\app\Views\template.php(25): view('contacto')
+#9 C:\wamp64\www\dga_ci4\system\View\View.php(210): include('C:\\wamp64\\www\\d...')
+#10 C:\wamp64\www\dga_ci4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#11 C:\wamp64\www\dga_ci4\system\Common.php(1089): CodeIgniter\View\View->render('template', Array, true)
+#12 C:\wamp64\www\dga_ci4\app\Controllers\Contacto.php(9): view('template', Array)
+#13 C:\wamp64\www\dga_ci4\system\CodeIgniter.php(832): App\Controllers\Contacto->index()
+#14 C:\wamp64\www\dga_ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contacto))
+#15 C:\wamp64\www\dga_ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#16 C:\wamp64\www\dga_ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#17 {main}

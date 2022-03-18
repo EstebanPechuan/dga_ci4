@@ -10,77 +10,46 @@
 
     <section class="que-es-ga">
         <div class="que-es-info">
-            <h3>Qué es Gobierno Abierto</h3>
-            <p>El Gobierno de la Provincia trabaja bajo el paradigma de Gobierno Abierto sustentado en los siguientes pilares: <strong>La Innovación Tecnología, la transparencia, la colaboración y la participación</strong>, priorizando a la innovación como transversal a todos los procesos.
-            Desde Gobierno Abierto consideramos que trabajamos con una filosofía político administrativa que pretende mejorar el desempeño y la calidad de los organismos públicos.</p>
+            <h3>Innovación Tecnológica</h3>
+            <p>Es un pilar o valor fundamental y transversal dentro de la Dirección de Gobierno Abierto, a través del cual el ciudadano pueda tener acceso transparente a su información, para que él pueda ver el estado de cada documento, cada expediente sin que esté oculto.
+            <br>
+            Brindando al ciudadano el poder de participación, escuchando cuáles son sus necesidades y de esta manera producir o mejorar un producto digital, tecnológico pensado para él.</p>
         </div>
         <div class="que-es-logo">
-            <img src=" <?php echo base_url('public/img/gob-san-juan.png') ?> " alt="Logo Gobierno San Juan">
+            <img src=" <?php echo base_url('public/img/dispositivos.png') ?> " alt="Dispositivos" style="height: auto !important; width: 80% !important;">
         </div>
     </section>
-
-    <section class="nosotros-responsabilidad">
-        <h3>Resposabilidades
+    
+    <section class="que-es-ga">
+        <div class="que-es-logo">
+            <img src=" <?php echo base_url('public/img/innovacion.png') ?> " alt="Innovacion" style="height: auto !important; width: 80% !important;">
+        </div>
+        <div class="que-es-info">
+            <h3>Transparencia</h3>
+            <p>Este pilar o valor de la Dirección de Gobierno Abierto es fundamental ya que de esta manera es cómo el ciudadano puede obtener su información sin que nadie la oculte, dándole la posibilidad de acceso a su documentación y su estado.
             <br>
-            Nuestras responsabilidades están centradas  en impactar de forma:
-        </h3>
-        <div class="responsabilidad">
-            <div class="resposabilidad-img">
-                <img src=" <?php echo base_url('public/img/engranages.png') ?> " alt="Engranages">
-            </div>
-            <div class="resposabilidad-texto">
-                <div class="">
-                    <p>
-                        <strong>Directa</strong>
-                        <ul>
-                            <li>Gestionar la comunicación bilateral entre el Gobierno y el ciudadano.</li>
-                            <li>Promover los canales que faciliten los componentes deliberativos y participativos de la democracia.</li>
-                            <li>Garantizar el libre acceso a la información pública</li>
-                        </ul>
-
-                        Estas responsabilidades se ven reflejadas en operaciones que la D.G.A. realiza de manera periódica y continúa brindándole al ciudadano un producto digital, de calidad e innovación tecnológica para mayor transparencia a la hora de solicitar datos, expedientes y demás gestiones gubernamentales de una manera fácil, rápida y simple.
-
-                    </p>
-                </div>
-            </div>
-        </div>
-
-        <div class="responsabilidad-2">
-            <div class="resposabilidad-img-2">
-                <img src=" <?php echo base_url('public/img/persona-engranage.png') ?> " alt="Engranages">
-            </div>
-            <div class="resposabilidad-texto-2">
-                <div class="">
-                    <p>
-                        <strong>Indirecta, relacionadas con una visión a futuro</strong>
-
-                        <br>
-                        <strong>- Automatización de procesos</strong>
-                        <br>
-                        (Innovación tecnológica / Transparencia)
-                        Es la operación de un proceso utilizando la tecnología y la integración de sistemas y datos. Es un paso importante capaz de generar competitividad, eficiencia, transparencia y coherencia y valor al ciudadano.
-                        <br><br>
-                        <strong>- Gestión Metodológica</strong>
-                        <br>
-                        (Innovación tecnológica / Transparencia)
-                        Es la disciplina encargada de elaborar, definir y sistematizar el procedimiento que se debe seguir durante el desarrollo de un proyecto para la producción de una plataforma o producto digital.
-                        <br><br>
-                        <strong>- Interoperabilidad</strong>
-                        <br>
-                        (Innovación tecnológica / Transparencia) (intercambio de información)
-                        Generando una comunicación entre plataformas digitales donde se intercambia información, datos, documentos y expedientes de manera uniforme y eficiente. Facilitando la gestión de la información del ciudadano.
-                        <br><br>
-                        <strong>- Multicanalidad</strong>
-                        <br>
-                        (Participación ciudadana)
-                        Creación de bots y CAIGE desde donde el usuario se pone en contacto con el Gobierno y de esta manera generar una comunicación entre ambos donde nace y se crea un producto que conoce y cumple las necesidades del ciudadano.
-                        Con esta visión se crean productos digitales que trascienden gestiones gubernamentales van hacia un futuro, siempre orientados al beneficio del ciudadano y generando transparencia desde el Gobierno.
-                        Estas responsabilidades se ven reflejadas en las áreas de Ejecución, Operación y Mantenimiento donde se brinda soporte a las diferentes plataformas gubernamentales como Portales Web y Aplicaciones Móviles, creadas para facilitar el acceso al ciudadano y a los trabajadores de Gobierno a diferentes trámites, documentos y expedientes.
-                    </p>
-                </div>
-            </div>
+            Un gobierno transparente fomenta y promueve la rendición de cuentas de la Administración ante la ciudadanía y proporciona información sobre lo que está realizando y sobre sus planes de actuación. 
+            <br>
+            De esta manera el Gobierno debería permitir el acceso a esta información pública de manera sencilla y clara, permitiendo de esta manera que los ciudadanos puedan realizar un control de la acción de gobierno, así como crear valor económico o social a partir de los datos públicos ofrecidos libremente por la Administración.</p>
         </div>
     </section>
+
+    <section class="que-es-ga">
+        <div class="que-es-info">
+            <h3>Colaboración</h3>
+            <p>Este pilar o valor de la Dirección de Gobierno Abierto también está centrado en el ciudadano y comprende acciones para brindarle la información, expedientes y documentación que él necesite.</p>
+            <h3>Participación Ciudadana </h3>
+            <p>Este pilar o valor le da la posibilidad al ciudadano y a la sociedad, el poder de participación en las decisiones gubernamentales.
+            <br>
+            Desde la Dirección de Gobierno Abierto siempre estamos dispuestos a escuchar al ciudadano, sus consultas, necesidades y aportes para así poder brindar un mejor producto y servicio, generando espacios de comunicación a través de los diferentes portales, plataformas y aplicaciones digitales. 
+</p>
+        </div>
+        <div class="que-es-logo">
+            <img src=" <?php echo base_url('public/img/people.png') ?> " alt="Participación Ciudadana" style="height: auto !important; width: 80% !important;">
+        </div>
+    </section>
+    
+    
 
     <section class="organismos">
         <h2>Organismos y Secretarías</h2>

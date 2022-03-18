@@ -7,128 +7,231 @@
         $clase['pilar_activo'] = 'transparencia';
         echo view('includes/pilares', $clase);
     ?>
-
-    <section class="que-es-ga">
-        <div class="que-es-info">
-            <h3>Qué es Gobierno Abierto</h3>
-            <p>El Gobierno de la Provincia trabaja bajo el paradigma de Gobierno Abierto sustentado en los siguientes pilares: <strong>La Innovación Tecnología, la transparencia, la colaboración y la participación</strong>, priorizando a la innovación como transversal a todos los procesos.
-            Desde Gobierno Abierto consideramos que trabajamos con una filosofía político administrativa que pretende mejorar el desempeño y la calidad de los organismos públicos.</p>
-        </div>
-        <div class="que-es-logo">
-            <img src=" <?php echo base_url('public/img/gob-san-juan.png') ?> " alt="Logo Gobierno San Juan">
-        </div>
-    </section>
-
     <section class="nosotros-responsabilidad">
-        <h3>Resposabilidades
-            <br>
-            Nuestras responsabilidades están centradas  en impactar de forma:
-        </h3>
-        <div class="responsabilidad">
-            <div class="resposabilidad-img">
-                <img src=" <?php echo base_url('public/img/engranages.png') ?> " alt="Engranages">
-            </div>
-            <div class="resposabilidad-texto">
-                <div class="">
-                    <p>
-                        <strong>Directa</strong>
-                        <ul>
-                            <li>Gestionar la comunicación bilateral entre el Gobierno y el ciudadano.</li>
-                            <li>Promover los canales que faciliten los componentes deliberativos y participativos de la democracia.</li>
-                            <li>Garantizar el libre acceso a la información pública</li>
-                        </ul>
-
-                        Estas responsabilidades se ven reflejadas en operaciones que la D.G.A. realiza de manera periódica y continúa brindándole al ciudadano un producto digital, de calidad e innovación tecnológica para mayor transparencia a la hora de solicitar datos, expedientes y demás gestiones gubernamentales de una manera fácil, rápida y simple.
-
-                    </p>
-                </div>
-            </div>
-        </div>
+        <h3>Transparencia</h3>
 
         <div class="responsabilidad-2">
-            <div class="resposabilidad-img-2">
-                <img src=" <?php echo base_url('public/img/persona-engranage.png') ?> " alt="Engranages">
-            </div>
             <div class="resposabilidad-texto-2">
                 <div class="">
-                    <p>
-                        <strong>Indirecta, relacionadas con una visión a futuro</strong>
-
-                        <br>
-                        <strong>- Automatización de procesos</strong>
-                        <br>
-                        (Innovación tecnológica / Transparencia)
-                        Es la operación de un proceso utilizando la tecnología y la integración de sistemas y datos. Es un paso importante capaz de generar competitividad, eficiencia, transparencia y coherencia y valor al ciudadano.
-                        <br><br>
-                        <strong>- Gestión Metodológica</strong>
-                        <br>
-                        (Innovación tecnológica / Transparencia)
-                        Es la disciplina encargada de elaborar, definir y sistematizar el procedimiento que se debe seguir durante el desarrollo de un proyecto para la producción de una plataforma o producto digital.
-                        <br><br>
-                        <strong>- Interoperabilidad</strong>
-                        <br>
-                        (Innovación tecnológica / Transparencia) (intercambio de información)
-                        Generando una comunicación entre plataformas digitales donde se intercambia información, datos, documentos y expedientes de manera uniforme y eficiente. Facilitando la gestión de la información del ciudadano.
-                        <br><br>
-                        <strong>- Multicanalidad</strong>
-                        <br>
-                        (Participación ciudadana)
-                        Creación de bots y CAIGE desde donde el usuario se pone en contacto con el Gobierno y de esta manera generar una comunicación entre ambos donde nace y se crea un producto que conoce y cumple las necesidades del ciudadano.
-                        Con esta visión se crean productos digitales que trascienden gestiones gubernamentales van hacia un futuro, siempre orientados al beneficio del ciudadano y generando transparencia desde el Gobierno.
-                        Estas responsabilidades se ven reflejadas en las áreas de Ejecución, Operación y Mantenimiento donde se brinda soporte a las diferentes plataformas gubernamentales como Portales Web y Aplicaciones Móviles, creadas para facilitar el acceso al ciudadano y a los trabajadores de Gobierno a diferentes trámites, documentos y expedientes.
-                    </p>
+                    <p>Este pilar o valor de la Dirección de Gobierno Abierto es fundamental ya que de esta manera es cómo el ciudadano puede obtener su información sin que nadie la oculte, dándole la posibilidad de acceso a su documentación y su estado.
+                    <br> <br>
+                    Un gobierno transparente fomenta y promueve la rendición de cuentas de la Administración ante la ciudadanía y proporciona información sobre lo que está realizando y sobre sus planes de actuación. 
+                    <br> <br>
+                    De esta manera el Gobierno debería permitir el acceso a esta información pública de manera sencilla y clara, permitiendo de esta manera que los ciudadanos puedan realizar un control de la acción de gobierno, así como crear valor económico o social a partir de los datos públicos ofrecidos libremente por la Administración.</p>
                 </div>
             </div>
         </div>
     </section>
 
-    <section class="organismos">
-        <h2>Organismos y Secretarías</h2>
-        <div class="cards-organismos">
-            <div class="card-organismos">
-                <div class="card-org">
-                    <img src=" <?php echo base_url('public/img/mujer-org.png') ?> " alt="Organismos">
+
+    <section class="cards-pilares-transparencias">
+        <h3>Transparencia</h3>
+        <div class="cards-pilares-transparencia">
+            <div class="card-pilar-transparencia">
+                <div class="card-pilar-titulo">
+                    <h3>Consultas de Expedientes</h3>
                 </div>
-                <h4>Lorem Ipsum</p>
-                <!-- <a href="#c">Ver más</a> -->
+                <div class="card-pilar-img">
+                    <img src=" <?php echo base_url('public/img/iconos/transparencia/img1.png') ?> " alt="Icono Carpeta">
+                </div>
+            </div>
+
+            <div class="card-pilar-transparencia">
+                <div class="card-pilar-titulo">
+                    <h3>Trámites</h3>
+                </div>
+                <div class="card-pilar-img">
+                    <img src=" <?php echo base_url('public/img/iconos/transparencia/img2.png') ?> " alt="Icono Manos">
+                </div>
+            </div>
+
+            <div class="card-pilar-transparencia">
+                <div class="card-pilar-titulo">
+                    <h3>Contrataciones</h3>
+                </div>
+                <div class="card-pilar-img">
+                    <img src=" <?php echo base_url('public/img/iconos/transparencia/img3.png') ?> " alt="Icono Documento">
+                </div>
+            </div>
+
+            <div class="card-pilar-transparencia">
+                <div class="card-pilar-titulo">
+                    <h3>Consultas y solicitudes</h3>
+                </div>
+                <div class="card-pilar-img">
+                    <img src=" <?php echo base_url('public/img/iconos/transparencia/img4.png') ?> " alt="Icono Conversación">
+                </div>
+            </div>
+
+            <div class="card-pilar-transparencia">
+                <div class="card-pilar-titulo">
+                    <h3>Consultas y solicitudes</h3>
+                </div>
+                <div class="card-pilar-img">
+                    <img src=" <?php echo base_url('public/img/iconos/transparencia/img5.png') ?> " alt="Icono Conversación">
+                </div>
+            </div>
+
+            <div class="card-pilar-transparencia">
+                <div class="card-pilar-titulo">
+                    <h3>Consultas y solicitudes</h3>
+                </div>
+                <div class="card-pilar-img">
+                    <img src=" <?php echo base_url('public/img/iconos/transparencia/img6.png') ?> " alt="Icono Conversación">
+                </div>
+            </div>
+
+            <div class="card-pilar-transparencia">
+                <div class="card-pilar-titulo">
+                    <h3>Consultas y solicitudes</h3>
+                </div>
+                <div class="card-pilar-img">
+                    <img src=" <?php echo base_url('public/img/iconos/transparencia/img7.png') ?> " alt="Icono Conversación">
+                </div>
+            </div>
+
+            <div class="card-pilar-transparencia">
+                <div class="card-pilar-titulo">
+                    <h3>Consultas y solicitudes</h3>
+                </div>
+                <div class="card-pilar-img">
+                    <img src=" <?php echo base_url('public/img/iconos/transparencia/img8.png') ?> " alt="Icono Conversación">
+                </div>
             </div>
         </div>
     </section>
 
-    <section class="organismos">
-        <div class="cards-organismos">
-            <div class="card-organismos-2">
-                <div class="card-org">
-                    <img src=" <?php echo base_url('public/img/hombre-org.png') ?> " alt="Organismos">
+
+    <div class="publicidad-cidi">
+        <img src=" <?php echo base_url('public/img/publicidad-2.png') ?> " alt="">
+    </div>
+
+
+    <section class="nosotros-responsabilidad">
+        <h3 style="margin-bottom: 15px;">Gobierno Abierto se Plantea Educar al Ciudadano</h3>
+
+        <div class="responsabilidad-3">
+            <div class="resposabilidad-texto-3">
+                <div class="">
+                    <ul>
+                        <li>Visualización de datos</li>
+                        <li>Exhibición del proceso de gobierno</li>
+                        <li>Infografías</li>
+                    </ul>
                 </div>
-                <h4>Lorem Ipsum</p>
-                <!-- <a href="#c">Ver más</a> -->
+            </div>
+        </div>
+        
+        <br>
+
+        <h3 style="margin-bottom: 15px;">Gobierno Abierto se propone Monitorear las Políticas Publicas</h3>
+
+        <div class="responsabilidad-3">
+            <div class="resposabilidad-texto-3">
+                <div class="">
+                    <ul>
+                        <li>Estrategias de Comunicación</li>
+                        <li>Indicadores de Impacto (tableros)</li>
+                        <li>Fechas Limites</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <br>
+
+        <h3 style="margin-bottom: 15px;">Datos de Ciudadano Digital </h3>
+
+        <div class="responsabilidad-3">
+            <div class="resposabilidad-texto-3">
+                <div class="">
+                    <p>En la plataforma de Ciudadano Digital se han creado más de 25 mil cuentas nuevas, 400 mil consultas y 300 mil descargas para la realización de trámites son algunos de los números registrados tras el relanzamiento de Ciudadano Digital, la aplicación mediante la cual los cuidadanos pueden realizar distintos tipos de gestiones y acceder a documentación personal de manera virtual.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section class="estadisticas">
+        <fieldset>
+            <legend>Ciudadano Digital</legend>
+
+            <div class="interior-fieldset">
+                <div class="card-estadistica">
+                    <div class="asterisco">*</div>
+                    <div class="card-est">
+                        <h2>25.000</h2>
+                        <p>Nuevas cuentas</p>
+                    </div>
+                </div>
+
+                <div class="card-estadistica">
+                    <div class="asterisco">*</div>
+                    <div class="card-est">
+                        <h2>168.385</h2>
+                        <p>Recibo de sueldo</p>
+                    </div>
+                </div>
+
+                <div class="card-estadistica">
+                    <div class="asterisco">*</div>
+                    <div class="card-est">
+                        <h2>72.688</h2>
+                        <p>Partidas de nacimiento</p>
+                    </div>
+                </div>
+
+                <div class="card-estadistica">
+                    <div class="asterisco">*</div>
+                    <div class="card-est">
+                        <h2>40.000</h2>
+                        <p>Consultas</p>
+                    </div>
+                </div>
+
+                <div class="card-estadistica">
+                    <div class="asterisco">*</div>
+                    <div class="card-est">
+                        <h2>111.188</h2>
+                        <p>Calendario de Vacunas</p>
+                    </div>
+                </div>
+
+                <div class="card-estadistica">
+                    <div class="asterisco">*</div>
+                    <div class="card-est">
+                        <h2>40.678</h2>
+                        <p>Consulta de expedientes</p>
+                    </div>
+                </div>
+
+                <div class="card-estadistica">
+                    <div class="asterisco">*</div>
+                    <div class="card-est">
+                        <h2>7.496</h2>
+                        <p>Nomenclaturas catastrales</p>
+                    </div>
+                </div>
+
+                <div class="card-estadistica">
+                    <div class="asterisco">*</div>
+                    <div class="card-est">
+                        <h2>6.603</h2>
+                        <p>Padrón electoral</p>
+                    </div>
+                </div>
             </div>
 
-            <div class="card-organismos-2">
-                <div class="card-org">
-                    <img src=" <?php echo base_url('public/img/hombre-org.png') ?> " alt="Organismos">
-                </div>
-                <h4>Lorem Ipsum</p>
-                <!-- <a href="#c">Ver más</a> -->
-            </div>
 
-            <div class="card-organismos-2">
-                <div class="card-org">
-                    <img src=" <?php echo base_url('public/img/hombre-org.png') ?> " alt="Organismos">
-                </div>
-                <h4>Lorem Ipsum</p>
-                <!-- <a href="#c">Ver más</a> -->
+            <div class="grafica-est">
+                <img src=" <?php echo base_url('public/img/grafica-est.png') ?> " alt="">
             </div>
+        </fieldset>
 
-            <div class="card-organismos-2">
-                <div class="card-org">
-                    <img src=" <?php echo base_url('public/img/hombre-org.png') ?> " alt="Organismos">
-                </div>
-                <h4>Lorem Ipsum</p>
-                <!-- <a href="#c">Ver más</a> -->
-            </div>
-        </div>        
+        <p>Con la intención de apuntar a un Estado más moderno, eficiente y sustentable.
+        <br>
+        El uso de esta plataforma favorece al ciudadano ahorrando tiempo de espera, traslados y papelería, además de contar con la garantía de que se trata de un proceso confidencial, seguro y transparente.</p>
+
     </section>
 
     <?php
