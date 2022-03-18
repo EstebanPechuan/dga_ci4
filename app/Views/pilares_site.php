@@ -1,7 +1,7 @@
 
 <main>
     <?php
-        $clase['menu_activo'] = 'nosotros';
+        $clase['menu_activo'] = 'pilares';
         echo view('includes/hero', $clase);
 
         $clase['pilar_activo'] = 'null';

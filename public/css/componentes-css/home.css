@@ -97,7 +97,7 @@ body {
     border-radius: 0 0 40px 40px;
     position: sticky;
     top: 100px;
-    z-index: 1001;
+    z-index: 2001;
 
     display: flex;
     justify-content: center;
@@ -155,7 +155,8 @@ body {
     transition: 0.4s;
 }
 
-.nav-pilares .cards-pilares .card-pilares:hover {
+.nav-pilares .cards-pilares .card-pilares:hover,
+.nav-pilares .cards-pilares .card-pilares.pilar-active {
     width: 50%;
 }
 

@@ -1,10 +1,10 @@
-
 <main>
     <?php
         $clase['menu_activo'] = 'home';
         echo view('includes/hero', $clase);
 
-        echo view('includes/pilares');
+        $clase['pilar_activo'] = 'null';
+        echo view('includes/pilares', $clase);
     ?>
 
     <section class="que-es-ga">
@@ -175,7 +175,7 @@
         </div>
     </section>
 
-    <div class="flyer-violencia">
-        <img src=" <?php echo base_url('public/img/purple-bg.png') ?> " alt="Flyer Violencia">
-    </div>
+    <?php
+        echo view('includes/flyer_violencia');
+    ?>    
 </main>
