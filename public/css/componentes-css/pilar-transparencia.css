@@ -17,13 +17,12 @@
     text-align: center;
 
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 50px;
 }
 
 .card-pilar-transparencia {
-    padding: 20px 50px;
-    text-align: center;
+    padding: 20px;
     box-shadow: 0 4px 4px #0004;
     border-radius: 8px;
     cursor: pointer;
@@ -35,7 +34,9 @@
 }
 
 .card-pilar-titulo {
+    min-height: 60px;
     color: #4175B8;
+    text-align: left;
 }
 
 .card-pilar-img {
@@ -62,32 +63,11 @@
 
 /* Link Útiles */
 
-.links-utiles {
-    width: 100%;
-    padding: 20px 50px;
-
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
-    gap: 20px 40px;
-}
-
-.links-utiles .link {
-    box-shadow: 0 4px 4px #0004;
-    padding: 10px 15px;
-    border-radius: 7px;
-    text-align: right;
-}
-
-.links-utiles .link h4 {
-    color: #4175B8;
-    font-family: var(--ff-medium);
-    text-align: left;
-}
-
-.links-utiles .link a {
+.link-util-transparencia {
     color: var(--color-1) !important;
+    text-align: right;
+    margin-top: 10px;
 }
-
 
 .estadisticas {
     width: 100%;

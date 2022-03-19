@@ -41,64 +41,13 @@
             <h3>Participación Ciudadana </h3>
             <p>Este pilar o valor le da la posibilidad al ciudadano y a la sociedad, el poder de participación en las decisiones gubernamentales.
             <br>
-            Desde la Dirección de Gobierno Abierto siempre estamos dispuestos a escuchar al ciudadano, sus consultas, necesidades y aportes para así poder brindar un mejor producto y servicio, generando espacios de comunicación a través de los diferentes portales, plataformas y aplicaciones digitales. 
-</p>
+            Desde la Dirección de Gobierno Abierto siempre estamos dispuestos a escuchar al ciudadano, sus consultas, necesidades y aportes para así poder brindar un mejor producto y servicio, generando espacios de comunicación a través de los diferentes portales, plataformas y aplicaciones digitales.</p>
         </div>
         <div class="que-es-logo">
             <img src=" <?php echo base_url('public/img/people.png') ?> " alt="Participación Ciudadana" style="height: auto !important; width: 80% !important;">
         </div>
     </section>
     
-    
-
-    <section class="organismos">
-        <h2>Organismos y Secretarías</h2>
-        <div class="cards-organismos">
-            <div class="card-organismos">
-                <div class="card-org">
-                    <img src=" <?php echo base_url('public/img/mujer-org.png') ?> " alt="Organismos">
-                </div>
-                <h4>Lorem Ipsum</p>
-                <!-- <a href="#c">Ver más</a> -->
-            </div>
-        </div>
-    </section>
-
-    <section class="organismos">
-        <div class="cards-organismos">
-            <div class="card-organismos-2">
-                <div class="card-org">
-                    <img src=" <?php echo base_url('public/img/hombre-org.png') ?> " alt="Organismos">
-                </div>
-                <h4>Lorem Ipsum</p>
-                <!-- <a href="#c">Ver más</a> -->
-            </div>
-
-            <div class="card-organismos-2">
-                <div class="card-org">
-                    <img src=" <?php echo base_url('public/img/hombre-org.png') ?> " alt="Organismos">
-                </div>
-                <h4>Lorem Ipsum</p>
-                <!-- <a href="#c">Ver más</a> -->
-            </div>
-
-            <div class="card-organismos-2">
-                <div class="card-org">
-                    <img src=" <?php echo base_url('public/img/hombre-org.png') ?> " alt="Organismos">
-                </div>
-                <h4>Lorem Ipsum</p>
-                <!-- <a href="#c">Ver más</a> -->
-            </div>
-
-            <div class="card-organismos-2">
-                <div class="card-org">
-                    <img src=" <?php echo base_url('public/img/hombre-org.png') ?> " alt="Organismos">
-                </div>
-                <h4>Lorem Ipsum</p>
-                <!-- <a href="#c">Ver más</a> -->
-            </div>
-        </div>        
-    </section>
 
     <?php
         echo view('includes/flyer_violencia');

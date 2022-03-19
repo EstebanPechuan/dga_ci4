@@ -25,78 +25,102 @@
 
 
     <section class="cards-pilares-transparencias">
-        <h3>Transparencia</h3>
+        <h3>Plataformas que trasparentan la información</h3>
         <div class="cards-pilares-transparencia">
             <div class="card-pilar-transparencia">
                 <div class="card-pilar-titulo">
-                    <h3>Consultas de Expedientes</h3>
+                    <h3>Digesto Administrativo</h3>
                 </div>
                 <div class="card-pilar-img">
                     <img src=" <?php echo base_url('public/img/iconos/transparencia/img1.png') ?> " alt="Icono Carpeta">
                 </div>
+                <a class="link-util-transparencia" href="#c">
+                    Página Web <i class='bx bx-world'></i>
+                </a>
             </div>
 
             <div class="card-pilar-transparencia">
                 <div class="card-pilar-titulo">
-                    <h3>Trámites</h3>
+                    <h3>Régimen federal de responsabilidad Fiscal</h3>
                 </div>
                 <div class="card-pilar-img">
                     <img src=" <?php echo base_url('public/img/iconos/transparencia/img2.png') ?> " alt="Icono Manos">
                 </div>
+                <a class="link-util-transparencia" href="#c">
+                    Página Web <i class='bx bx-world'></i>
+                </a>
             </div>
 
             <div class="card-pilar-transparencia">
                 <div class="card-pilar-titulo">
-                    <h3>Contrataciones</h3>
+                    <h3>Recaudación impositiva</h3>
                 </div>
                 <div class="card-pilar-img">
                     <img src=" <?php echo base_url('public/img/iconos/transparencia/img3.png') ?> " alt="Icono Documento">
                 </div>
+                <a class="link-util-transparencia" href="#c">
+                    Página Web <i class='bx bx-world'></i>
+                </a>
             </div>
 
             <div class="card-pilar-transparencia">
                 <div class="card-pilar-titulo">
-                    <h3>Consultas y solicitudes</h3>
+                    <h3>Consulta comprobante de pago y retenciones</h3>
                 </div>
                 <div class="card-pilar-img">
                     <img src=" <?php echo base_url('public/img/iconos/transparencia/img4.png') ?> " alt="Icono Conversación">
                 </div>
+                <a class="link-util-transparencia" href="#c">
+                    Página Web <i class='bx bx-world'></i>
+                </a>
             </div>
 
             <div class="card-pilar-transparencia">
                 <div class="card-pilar-titulo">
-                    <h3>Consultas y solicitudes</h3>
+                    <h3>Resultado de Examenes</h3>
                 </div>
                 <div class="card-pilar-img">
                     <img src=" <?php echo base_url('public/img/iconos/transparencia/img5.png') ?> " alt="Icono Conversación">
                 </div>
+                <a class="link-util-transparencia" href="#c">
+                    Página Web <i class='bx bx-world'></i>
+                </a>
             </div>
 
             <div class="card-pilar-transparencia">
                 <div class="card-pilar-titulo">
-                    <h3>Consultas y solicitudes</h3>
+                    <h3>Cuenta de Inversión</h3>
                 </div>
                 <div class="card-pilar-img">
                     <img src=" <?php echo base_url('public/img/iconos/transparencia/img6.png') ?> " alt="Icono Conversación">
                 </div>
+                <a class="link-util-transparencia" href="#c">
+                    Página Web <i class='bx bx-world'></i>
+                </a>
             </div>
 
             <div class="card-pilar-transparencia">
                 <div class="card-pilar-titulo">
-                    <h3>Consultas y solicitudes</h3>
+                    <h3>Plan Estratégico San Juan</h3>
                 </div>
                 <div class="card-pilar-img">
                     <img src=" <?php echo base_url('public/img/iconos/transparencia/img7.png') ?> " alt="Icono Conversación">
                 </div>
+                <a class="link-util-transparencia" href="#c">
+                    Página Web <i class='bx bx-world'></i>
+                </a>
             </div>
 
             <div class="card-pilar-transparencia">
                 <div class="card-pilar-titulo">
-                    <h3>Consultas y solicitudes</h3>
+                    <h3>Inst. de investigaciones económicas y estadísticas</h3>
                 </div>
                 <div class="card-pilar-img">
                     <img src=" <?php echo base_url('public/img/iconos/transparencia/img8.png') ?> " alt="Icono Conversación">
                 </div>
+                <a class="link-util-transparencia" href="#c">
+                    Página Web <i class='bx bx-world'></i>
+                </a>
             </div>
         </div>
     </section>
@@ -124,7 +148,7 @@
         
         <br>
 
-        <h3 style="margin-bottom: 15px;">Gobierno Abierto se propone Monitorear las Políticas Publicas</h3>
+        <h3 style="margin-bottom: 15px;">Gobierno Abierto se propone Monitorear las Políticas Públicas</h3>
 
         <div class="responsabilidad-3">
             <div class="resposabilidad-texto-3">
@@ -132,7 +156,7 @@
                     <ul>
                         <li>Estrategias de Comunicación</li>
                         <li>Indicadores de Impacto (tableros)</li>
-                        <li>Fechas Limites</li>
+                        <li>Fechas Límites</li>
                     </ul>
                 </div>
             </div>

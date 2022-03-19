@@ -30,12 +30,11 @@
             <img src=" <?php echo base_url('public/img/innovacion.png') ?> " alt="Innovacion" style="height: auto !important; width: 80% !important;">
         </div>
         <div class="que-es-info">
-            <h3>Transparencia</h3>
-            <p>Este pilar o valor de la Dirección de Gobierno Abierto es fundamental ya que de esta manera es cómo el ciudadano puede obtener su información sin que nadie la oculte, dándole la posibilidad de acceso a su documentación y su estado.
+            <p>También genera la posibilidad de mejorar al Estado, demostrando su funcionamiento y haciendo transparente su función gubernamental, visualizando datos, exhibiendo el proceso de trabajo a través de infografías y plataformas digitales.
             <br>
-            Un gobierno transparente fomenta y promueve la rendición de cuentas de la Administración ante la ciudadanía y proporciona información sobre lo que está realizando y sobre sus planes de actuación. 
+            A través de esta, se genera un ambiente de trabajo colaborativo entre las organizaciones, direcciones y secretarias, donde se utilizan metodologías flexibles y agiles que derriban las estructuras piramidales y dan lugar a un método de trabajo horizontal. 
             <br>
-            De esta manera el Gobierno debería permitir el acceso a esta información pública de manera sencilla y clara, permitiendo de esta manera que los ciudadanos puedan realizar un control de la acción de gobierno, así como crear valor económico o social a partir de los datos públicos ofrecidos libremente por la Administración.</p>
+            Donde la participación del ciudadano es prioritaria, de esta manera le permite al Gobierno identificar críticas, incorporar sugerencias y compartir ideas.</p>
         </div>
     </section>
 

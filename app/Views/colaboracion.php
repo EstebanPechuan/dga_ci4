@@ -35,7 +35,7 @@
                 <li>Entre las organizaciones</li>
                 <li>Entre los Territorios</li>
                 <li>Utilizando herramientas para diseñar productos y servicios digitales de primera</li>
-                <li>Utilizando Metodologías Agiles y Flexibles</li>
+                <li>Utilizando Metodologías Ágiles y Flexibles</li>
                 <li>Mediante la participación ciudadana</li>
                 <li>Promocionando la cooperación</li>
             </ul>
@@ -57,7 +57,7 @@
                         <li>Ejemplo de Proyecto</li>
                     </ul>
                     <li><span>&#10033;</span> Encuentro virtuales promulgando la transparencia y coperacion entre direcciones en el Gobierno de la Provincia de San Juan </li>
-                    <li><span>&#10033;</span> Proyecto en coperativo con Dirección Provincial de Informatica modernización del Estado de la Proviencia de San Juan</li>
+                    <li><span>&#10033;</span> Proyecto en coperativo con Dirección Provincial de Informática modernización del Estado de la Proviencia de San Juan</li>
                 </ul>
             </div>
 

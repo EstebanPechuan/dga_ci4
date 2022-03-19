@@ -20,7 +20,7 @@
     <section class="publi-cidi-compu">
         <div class="publi-info-compu">
             <div class="publi-texto-compu">
-                <h3>Ciudadano Digital web donde podes acceder a tus servivios de una forma Rápida, Fácil y Segura</h3>
+                <h3>Ciudadano Digital web donde podés acceder a tus servicios de una forma Rápida, Fácil y Segura</h3>
                 <p>Podrás realizar distintos trámites y servicios digitales</p>
             </div>
             <div class="publi-button-compu">
@@ -161,7 +161,7 @@
         </div>
         <div class="publi-info-celu">
             <div class="publi-texto-celu">
-                <h3>Descarga nuestra app y accede a tus servivios de una forma Rápida, Fácil y Segura</h3>
+                <h3>Descarga nuestra app y accede a tus servicios de una forma Rápida, Fácil y Segura</h3>
                 <p>Podrás realizar distintos trámites y servicios digitales</p>
             </div>
             <div class="publi-buttons-celu">
