@@ -49,16 +49,15 @@
 
             <div class="interior-fieldset">
                 <ul class="fields-colaboracion-menu">
-                    <li>Dirección responsable de portales digitales, externos, del Gobierno de la provincia de San Juan.</li>
-                    <li>Proyectos vinculando a con la direccion de gobierno abierto.
-                        <ul class="fields-colaboracion-submenu">
-                            <li>Ciudadano Digital</li>
-                            <li>Ejemplo de Proyecto</li>
-                            <li>Ejemplo de Proyecto</li>
-                        </ul>
-                    </li>
-                    <li>Encuentro virtuales promulgando la transparencia y coperacion entre direcciones en el Gobierno de la Provincia de San Juan </li>
-                    <li>Proyecto en coperativo con Dirección Provincial de Informatica modernización del Estado de la Proviencia de San Juan</li>
+                    <li><span>&#10033;</span> Dirección responsable de portales digitales, externos, del Gobierno de la provincia de San Juan.</li>
+                    <li><span>&#10033;</span> Proyectos vinculando a con la direccion de gobierno abierto.</li>
+                    <ul class="fields-colaboracion-submenu">
+                        <li>Ciudadano Digital</li>
+                        <li>Ejemplo de Proyecto</li>
+                        <li>Ejemplo de Proyecto</li>
+                    </ul>
+                    <li><span>&#10033;</span> Encuentro virtuales promulgando la transparencia y coperacion entre direcciones en el Gobierno de la Provincia de San Juan </li>
+                    <li><span>&#10033;</span> Proyecto en coperativo con Dirección Provincial de Informatica modernización del Estado de la Proviencia de San Juan</li>
                 </ul>
             </div>
 
@@ -69,19 +68,19 @@
         </fieldset>
 
         <fieldset>
-            <legend>Dirección de Provincial de Informática</legend>
+            <legend>Dirección Provincial de Informática</legend>
 
             <div class="interior-fieldset">
                 <ul class="fields-colaboracion-menu">
-                    <li>Dirección responsable del sistema de gestión interna, acceso a sistemas.</li>
-                    <li>Proyectos vinculando a con la direccion de gobierno abierto.<ul class="fields-colaboracion-submenu">
+                    <li><span>&#10033;</span> Dirección responsable del sistema de gestión interna, acceso a sistemas.</li>
+                    <li><span>&#10033;</span> Proyectos vinculando a con la direccion de gobierno abierto.</li>
+                        <ul class="fields-colaboracion-submenu">
                             <li>Ciudadano Digital</li>
                             <li>Ejemplo de Proyecto</li>
                             <li>Ejemplo de Proyecto</li>
                         </ul>
-                    </li>
-                    <li>Encuentro virtuales promulgando la transparencia y coperacion entre direcciones en el Gobierno de la Provincia de San Juan</li>
-                    <li>Proyecto en coperativo con Dirección de Gobierno Abierto modernización del Estado de la Proviencia de San Juan </li>
+                    <li><span>&#10033;</span> Encuentro virtuales promulgando la transparencia y coperacion entre direcciones en el Gobierno de la Provincia de San Juan</li>
+                    <li><span>&#10033;</span> Proyecto en coperativo con Dirección de Gobierno Abierto modernización del Estado de la Proviencia de San Juan </li>
                 </ul>
             </div>
 
@@ -98,7 +97,6 @@
         echo view('includes/flyer_violencia');
     ?>
 </main>
-
 
 
 
