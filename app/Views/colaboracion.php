@@ -89,6 +89,8 @@
                 <img src=" <?php echo base_url('public/img/field2.png') ?> " alt="">
             </div>
         </fieldset>
+
+        <p>Desde Gobierno Abierto nos planteamos organizar sociedades, dentro y entre, compañías, autoridades públicas, ONG y fundamentalmente el ciudadano</p>
     </section>
 
 
