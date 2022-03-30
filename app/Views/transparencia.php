@@ -34,7 +34,7 @@
                 <div class="card-pilar-img">
                     <img src=" <?php echo base_url('public/img/iconos/transparencia/img1.png') ?> " alt="Icono Carpeta">
                 </div>
-                <a class="link-util-transparencia" href="#c">
+                <a class="link-util-transparencia" href="https://digesto.sanjuan.gob.ar/digesto/inicio3.php">
                     Página Web <i class='bx bx-world'></i>
                 </a>
             </div>
@@ -46,7 +46,7 @@
                 <div class="card-pilar-img">
                     <img src=" <?php echo base_url('public/img/iconos/transparencia/img2.png') ?> " alt="Icono Manos">
                 </div>
-                <a class="link-util-transparencia" href="#c">
+                <a class="link-util-transparencia" href="https://web.sanjuan.gob.ar/hacienda/">
                     Página Web <i class='bx bx-world'></i>
                 </a>
             </div>
@@ -58,7 +58,7 @@
                 <div class="card-pilar-img">
                     <img src=" <?php echo base_url('public/img/iconos/transparencia/img3.png') ?> " alt="Icono Documento">
                 </div>
-                <a class="link-util-transparencia" href="#c">
+                <a class="link-util-transparencia" href="http://recaudacionrentas.sanjuan.gob.ar/2022/2022.htm">
                     Página Web <i class='bx bx-world'></i>
                 </a>
             </div>
@@ -70,19 +70,19 @@
                 <div class="card-pilar-img">
                     <img src=" <?php echo base_url('public/img/iconos/transparencia/img4.png') ?> " alt="Icono Conversación">
                 </div>
-                <a class="link-util-transparencia" href="#c">
+                <a class="link-util-transparencia" href="https://minhacienda.sanjuan.gob.ar/#dnwvZ29iaWVybm8vbWluaGFjaWVuZGEvc2VydmljaW9zL3MvX2ZfOUEwMThCNjMwQkZENDI2MkI2MzZCRTZCN0ExOEM5OTAuaHRtbHxfdmFsaWRhY2lvbmVzfHx8fA==">
                     Página Web <i class='bx bx-world'></i>
                 </a>
             </div>
 
             <div class="card-pilar-transparencia">
                 <div class="card-pilar-titulo">
-                    <h3>Resultado de Examenes</h3>
+                    <h3>Resultado de Exámenes</h3>
                 </div>
                 <div class="card-pilar-img">
                     <img src=" <?php echo base_url('public/img/iconos/transparencia/img5.png') ?> " alt="Icono Conversación">
                 </div>
-                <a class="link-util-transparencia" href="#c">
+                <a class="link-util-transparencia" href="https://minhacienda.sanjuan.gob.ar/result_examenes.html">
                     Página Web <i class='bx bx-world'></i>
                 </a>
             </div>
@@ -94,7 +94,7 @@
                 <div class="card-pilar-img">
                     <img src=" <?php echo base_url('public/img/iconos/transparencia/img6.png') ?> " alt="Icono Conversación">
                 </div>
-                <a class="link-util-transparencia" href="#c">
+                <a class="link-util-transparencia" href="https://cgp.sanjuan.gov.ar/cuenta-de-inversion.html">
                     Página Web <i class='bx bx-world'></i>
                 </a>
             </div>
@@ -106,7 +106,7 @@
                 <div class="card-pilar-img">
                     <img src=" <?php echo base_url('public/img/iconos/transparencia/img7.png') ?> " alt="Icono Conversación">
                 </div>
-                <a class="link-util-transparencia" href="#c">
+                <a class="link-util-transparencia" href="https://planestrategico.sanjuan.gob.ar/">
                     Página Web <i class='bx bx-world'></i>
                 </a>
             </div>
@@ -118,7 +118,7 @@
                 <div class="card-pilar-img">
                     <img src=" <?php echo base_url('public/img/iconos/transparencia/img8.png') ?> " alt="Icono Conversación">
                 </div>
-                <a class="link-util-transparencia" href="#c">
+                <a class="link-util-transparencia" href="https://web.sanjuan.gob.ar/iiee/">
                     Página Web <i class='bx bx-world'></i>
                 </a>
             </div>

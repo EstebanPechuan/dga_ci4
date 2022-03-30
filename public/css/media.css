@@ -12,7 +12,7 @@
         position: static !important;
     }
     .publi-cidi-compu .publi-img-compu img {
-        width: 100%;
+        /* width: 100%; */
     }
 }
 
@@ -49,8 +49,16 @@
         gap: 5px !important;
     }
     .nav-pilares .cards-pilares .card-pilares a {
-        font-size: 10px;
+        font-size: 9px;
     }
+    .publi-cidi-compu .publi-info-compu a {
+        padding: 10px 20px;
+    }
+    .que-es-ga {
+      padding: 20px;
+    }
+    .nav-pilares .cards-pilares {
+        overflow-x: scroll;
 }
 
 @media (max-width: 540px) {
@@ -64,5 +72,20 @@
     }
     .home-hero-submit div p {
         display: none;
+    }
+    .resposabilidad-img-2 {
+        float: none;
+    }
+}
+
+@media (max-width: 458px) {
+    .nav-secundario ul li a,
+    .nav-secundario ul li a.li-active,
+    .nav-secundario ul li a:hover {
+        font-size: 12px;
+    }
+    .estadisticas fieldset {
+        overflow-x: scroll;
+        /* overflow-y: hidden; */
     }
 }

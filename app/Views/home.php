@@ -24,7 +24,7 @@
                 <p>Podrás realizar distintos trámites y servicios digitales</p>
             </div>
             <div class="publi-button-compu">
-                <a href="#c">Ir a Ciudadano Digital</a>
+                <a href="https://mi.sanjuan.gob.ar/">Ir a Ciudadano Digital</a>
             </div>
         </div>
         <div class="publi-img-compu">
@@ -114,13 +114,14 @@
     <section class="links-utiles">
         <div class="link">
             <h4>Ministerio de Hacienda y Finanzas</h4>
-            <a href="#c">
+            <a href="https://hacienda.sanjuan.gob.ar/">
                 Página Web <i class='bx bx-world'></i>
             </a>
         </div>
 
         <div class="link">
             <h4>Dirección Provincial de Informática</h4>
+            <!-- A definir redirección -->
             <a href="#c">
                 Página Web <i class='bx bx-world'></i>
             </a>
@@ -128,28 +129,28 @@
 
         <div class="link">
             <h4>Recaudación Impositiva</h4>
-            <a href="#c">
+            <a href="https://rentas.dgrsj.gob.ar/contribuyentes/index.asp">
                 Página Web <i class='bx bx-world'></i>
             </a>
         </div>
 
         <div class="link">
             <h4>Régimen Federal de Responsabilidad Fiscal</h4>
-            <a href="#c">
+            <a href="https://web.sanjuan.gob.ar/hacienda/wp-content/uploads/sites/6/2019/11/Regimen-Provincial-de-Responsabilidad-Fiscal-Municipal.pdf">
                 Página Web <i class='bx bx-world'></i>
             </a>
         </div>
         
         <div class="link">
             <h4>Digesto Administrativo</h4>
-            <a href="#c">
+            <a href="https://digesto.sanjuan.gob.ar/digesto/">
                 Página Web <i class='bx bx-world'></i>
             </a>
         </div>
 
         <div class="link">
             <h4>Consulta de  Comprobantes de Pago y Rentenciones</h4>
-            <a href="#c">
+            <a href="https://rentas.dgrsj.gob.ar/contribuyentes/index.asp">
                 Página Web <i class='bx bx-world'></i>
             </a>
         </div>
