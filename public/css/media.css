@@ -59,6 +59,7 @@
     }
     .nav-pilares .cards-pilares {
         overflow-x: scroll;
+    }
 }
 
 @media (max-width: 540px) {
@@ -86,6 +87,5 @@
     }
     .estadisticas fieldset {
         overflow-x: scroll;
-        /* overflow-y: hidden; */
     }
 }
