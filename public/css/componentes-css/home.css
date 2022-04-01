@@ -38,6 +38,7 @@ body {
     width: 100%;
     max-width: 860px;
     height: 40px;
+    min-height: 40px;
     border-radius: 8px;
     border: 2px solid #fff;
     overflow: hidden;
@@ -148,6 +149,7 @@ body {
     gap: 15px;
 }
 
+
 .nav-pilares .cards-pilares .card-pilares {
     width: 25%;
     height: 100px;
@@ -197,7 +199,7 @@ body {
     padding: 20px 50px;
 
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 50px;
     place-items: center;
 }
@@ -233,7 +235,7 @@ body {
 }
 
 .que-es-ga .que-es-logo img {
-    height: 150px;
+    max-width: 300px;
 }
 
 
@@ -241,7 +243,7 @@ body {
 
 .publi-cidi-compu {
     width: 100%;
-    padding: 60px 100px;
+    padding: 60px clamp(20px, 10%, 100px);
 
     display: flex;
     justify-content: flex-start;
@@ -271,18 +273,21 @@ body {
 }
 
 .publi-cidi-compu .publi-info-compu a {
+    width: 100%;
     padding: 10px 50px;
+    display: block;
     color: #fff;
     background: #DC3015;
     border-radius: 6px;
     box-shadow: 0 3px 4px #0004;
+    text-align: center;
 }
 
 .publi-cidi-compu .publi-img-compu {
     width: 50%;
     flex-basis: 300px;
     flex-grow: 1;
-    padding: 50px 0;
+    padding: 50px 20px;
     position: absolute;
     right: 50px;
 
@@ -292,7 +297,8 @@ body {
 }
 
 .publi-cidi-compu .publi-img-compu img {
-    height: 300px;
+    width: clamp(200px, 100%, 500px);
+    /* width: 100%; */
 }
 
 
@@ -379,12 +385,14 @@ body {
     width: 100%;
     padding: 20px 50px;
 
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+    display: flex;
+    flex-wrap: wrap;
     gap: 20px 40px;
 }
 
 .links-utiles .link {
+    flex-basis: 400px;
+    flex-grow: 1;
     box-shadow: 0 4px 4px #0004;
     padding: 10px 15px;
     border-radius: 7px;
@@ -407,16 +415,26 @@ body {
 /* Publicidad Apps */
 
 .publi-cidi-celu {
-    width: 100%;
-    padding: 20px 100px;
+    padding: 20px clamp(100px, 50vw, 20px);
 
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-    place-items: center;
+    display: flex;
+    flex-wrap: wrap;
     gap: 80px;
 }
 
+.publi-cidi-celu .publi-img-celu {
+    width: 100%;
+    flex-basis: 200px;
+    flex-grow: 1;
+}
+
+.publi-cidi-celu .publi-img-celu img {
+    width: 100%;
+}
+
 .publi-cidi-celu .publi-info-celu {
+    flex-basis: 250px;
+    flex-grow: 1;
     display: flex;
     flex-direction: column;
     gap: 40px;
@@ -440,10 +458,13 @@ body {
 .publi-cidi-celu .publi-info-celu .publi-buttons-celu {
     display: flex;
     justify-content: flex-end;
+    flex-wrap: wrap;
     gap: 40px;
 }
 
 .publi-cidi-celu .publi-info-celu .publi-buttons-celu img {
+    flex-basis: 100px;
+    flex-grow: 1;
     height: 60px;
 }
 
