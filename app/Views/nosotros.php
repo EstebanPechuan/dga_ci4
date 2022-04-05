@@ -90,54 +90,54 @@
         </div>
     </section>
 
-    <section class="organismos">
+    <!-- <section class="organismos">
         <h2>Organismos y Secretarías</h2>
         <div class="cards-organismos">
             <div class="card-organismos">
                 <div class="card-org">
-                    <img src=" <?php echo base_url('public/img/mujer-org.png') ?> " alt="Organismos">
+                    <img src=" <?php //echo base_url('public/img/mujer-org.png') ?> " alt="Organismos">
                 </div>
                 <h4>Lorem Ipsum</p>
-                <!-- <a href="#c">Ver más</a> -->
+                <a href="#c" target="_blank">Ver más</a>
             </div>
         </div>
-    </section>
+    </section> -->
 
-    <section class="organismos">
+    <!-- <section class="organismos">
         <div class="cards-organismos">
             <div class="card-organismos-2">
                 <div class="card-org">
-                    <img src=" <?php echo base_url('public/img/hombre-org.png') ?> " alt="Organismos">
+                    <img src=" <?php //echo base_url('public/img/hombre-org.png') ?> " alt="Organismos">
                 </div>
                 <h4>Lorem Ipsum</p>
-                <!-- <a href="#c">Ver más</a> -->
+                <a href="#c" target="_blank">Ver más</a>
             </div>
 
             <div class="card-organismos-2">
                 <div class="card-org">
-                    <img src=" <?php echo base_url('public/img/hombre-org.png') ?> " alt="Organismos">
+                    <img src=" <?php //echo base_url('public/img/hombre-org.png') ?> " alt="Organismos">
                 </div>
                 <h4>Lorem Ipsum</p>
-                <!-- <a href="#c">Ver más</a> -->
+                <a href="#c" target="_blank">Ver más</a>
             </div>
 
             <div class="card-organismos-2">
                 <div class="card-org">
-                    <img src=" <?php echo base_url('public/img/hombre-org.png') ?> " alt="Organismos">
+                    <img src=" <?php //echo base_url('public/img/hombre-org.png') ?> " alt="Organismos">
                 </div>
                 <h4>Lorem Ipsum</p>
-                <!-- <a href="#c">Ver más</a> -->
+                <a href="#c" target="_blank">Ver más</a>
             </div>
 
             <div class="card-organismos-2">
                 <div class="card-org">
-                    <img src=" <?php echo base_url('public/img/hombre-org.png') ?> " alt="Organismos">
+                    <img src=" <?php //echo base_url('public/img/hombre-org.png') ?> " alt="Organismos">
                 </div>
                 <h4>Lorem Ipsum</p>
-                <!-- <a href="#c">Ver más</a> -->
+                <a href="#c" target="_blank">Ver más</a>
             </div>
         </div>        
-    </section>
+    </section> -->
 
     <?php
         echo view('includes/flyer_violencia');
