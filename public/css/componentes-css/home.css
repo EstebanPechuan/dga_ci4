@@ -297,8 +297,8 @@ body {
 }
 
 .publi-cidi-compu .publi-img-compu img {
-    width: clamp(200px, 100%, 500px);
-    /* width: 100%; */
+    /* width: clamp(200px, 100%, 500px); */
+    width: 100%;
 }
 
 
