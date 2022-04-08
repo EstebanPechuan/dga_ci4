@@ -77,6 +77,19 @@
     .resposabilidad-img-2 {
         float: none;
     }
+    .nav-pilares .cards-pilares {
+        flex-wrap: wrap;
+    }
+    .nav-pilares .cards-pilares .card-pilares {
+        width: 100%;
+    }
+    .nav-pilares .cards-pilares .card-pilares:hover,
+    .nav-pilares .cards-pilares .card-pilares.pilar-active {
+        width: 100%;
+    }
+    .nav-pilares .cards-pilares .card-pilares a {
+        font-size: 14px;
+    }
 }
 
 @media (max-width: 458px) {
@@ -86,6 +99,9 @@
         font-size: 12px;
     }
     .estadisticas fieldset {
+        overflow-x: scroll;
+    }
+    .fields-colaboracion {
         overflow-x: scroll;
     }
 }
