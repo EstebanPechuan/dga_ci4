@@ -130,7 +130,7 @@
         <div class="link">
             <h4>Dirección Provincial de Informática</h4>
             <!-- A definir redirección -->
-            <a href="#c" target="_blank">
+            <a href="https://dpi.sanjuan.gob.ar/" target="_blank">
                 Página Web <i class='bx bx-world'></i>
             </a>
         </div>
