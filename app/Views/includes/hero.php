@@ -1,4 +1,4 @@
-<section class="hero" style=" <?php if($hero == true) { echo 'display: block;';} else {echo 'display: none;';} ?>" >
+<section class="hero" style=" <?php if($hero == true) { echo 'display: flex;';} else {echo 'display: none;';} ?>" >
     <div class="">
         <h1>Bienvenid@ a Gobierno Abierto</h1>
         <h3>Innovación Tecnológica</h3>
